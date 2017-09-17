@@ -1,0 +1,15 @@
+{
+  "name": "node-web-server",
+  "versione": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo\"Errosr: no test specified\"&& exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "licence": "ISC",
+  "dependancies": {
+    "express": "^4.14.0",
+    "hbs": "^4.0.0"
+  }
+}
